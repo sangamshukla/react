@@ -4,7 +4,10 @@ function App(props) {
   return (
     <div className="">
       <header className="">       
-        <h1>Hello World</h1>
+        <div>
+          <h2>Anand Shukla</h2>
+        </div>
+
         <p>Welcome to my website</p>
       </header>
     </div>
